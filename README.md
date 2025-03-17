@@ -96,16 +96,11 @@ This project demonstrates how AI can optimize e-commerce operations by improving
 - Refining customer segmentation using additional behavioral attributes.
 
 ---
-### **How to Run the Project**
-1. Clone this repository:
+Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-logistics-ml.git
+   git clone https://github.com/MNitin-Reddy/Optimizing-E-Commerce-Logistics-and-Customer-Segmentation-Using-Machine-Learning.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
+Run the notebook:
    ```bash
    jupyter notebook AIML_240151939.ipynb
    ```
