@@ -74,7 +74,7 @@ The dataset consists of e-commerce transactions, including features such as:
   - Decision Trees provide an interpretable baseline.
   - Random Forest improves performance through ensemble learning.
   - Gradient Boosting optimizes learning with iterative corrections.
-- **Best Model:** Random Forest with an accuracy of **XX%**.
+- **Best Model:** Random Forest with an accuracy of **85%**.
 - **Hyperparameter tuning** improved precision and recall, reducing false positives and negatives.
 
 ### **Clustering (Customer Segmentation):**
